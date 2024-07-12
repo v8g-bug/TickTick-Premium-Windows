@@ -69,4 +69,4 @@ Unlock the full potential of TickTick on Windows with our exclusive premium clie
 
 ---
 
-Made with ❤️ by [YourName](https://github.com/v8g-bug)
+Made with ❤️ by [Felicy](https://github.com/v8g-bug)
